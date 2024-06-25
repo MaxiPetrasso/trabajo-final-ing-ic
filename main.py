@@ -20,7 +20,7 @@ def main() -> None:
             print('Código no valido.\n')
     
         else:
-            # La entrada es valida, se procesa el valor como tipo entero.
+            # La entrada es válida, se procesa el valor como tipo entero.
             codigo_de_pieza : int = int(codigo_de_pieza)
             
             if codigo_de_pieza != 0:
